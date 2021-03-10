@@ -1,0 +1,2 @@
+# AMD-and-Machine-learning
+The project illustrates the American community survey data of 1 to 50 states, with household records. We deal with only one variable which is HINCP which comes under housing unit and also we implement regression algorithm with ridge regression, Root mean square error and R2 function in reproductible and scalable form. Finally we conclude with exploratory data anaylsis through plotting actual and predicted values.
